@@ -2,14 +2,16 @@
 <a href="https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://cloud.githubusercontent.com/assets/1393946/15162649/647ca490-1704-11e6-8ed8-ef0674e40fc3.png" width="375"/></a
 </p>
 
-## What is OctoLinker? [![Build Status](https://travis-ci.org/OctoLinker/OctoLinker.svg?branch=master)](https://travis-ci.org/OctoLinker/OctoLinker) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/octolinker/OctoLinker?svg=true&branch=master)](https://ci.appveyor.com/project/stefanbuck/OctoLinker)
+[![Build Status](https://travis-ci.org/OctoLinker/OctoLinker.svg?branch=master)](https://travis-ci.org/OctoLinker/OctoLinker) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/OctoLinker)
 
+
+## What is OctoLinker? 
 
 OctoLinker is a browser extension for Chrome, Firefox and Opera which allows you to navigate through code on GitHub more efficiently.
 
 It turns language-specific module-loading statements like `include`, `require` or `import` into links. Depending on the language it will either redirect you to the referenced file or to an external website like a manual page or another service.
 
-<img src="https://user-images.githubusercontent.com/1393946/34275053-dca87148-e69b-11e7-9d8f-e43ce361755b.gif" width="600" heigh="338" />
+<img src="./demo.png" width="1152" />
 
 ## Install
 
@@ -22,8 +24,6 @@ Install OctoLinker from [Chrome Web Store](https://chrome.google.com/webstore/de
 ## Features
 
 OctoLinker supports quite a few languages already. The supported features vary from language to language. A pink dot next to the line number indicates an OctoLinker action.
-
-![](https://user-images.githubusercontent.com/1393946/32074441-b6231aba-ba99-11e7-880d-631fdb961db5.png)
 
 <p align="center">
 <img src="https://octolinker.github.io/img/npm.png" width="100" hspace="20" vspace="20"/>
@@ -48,13 +48,14 @@ OctoLinker supports quite a few languages already. The supported features vary f
 <img src="https://octolinker.github.io/img/homebrew.png" width="100" hspace="20" vspace="20"/>
 </p>
 
-## Want to contribute?
-
-Anyone can help make this project better - check out the [Contributing](/CONTRIBUTING.md) guide!
-
 ## Feedback please
 
 If you encounter a problem using OctoLinker, or would like to request an enhancement, feel free to create an [issue](https://github.com/OctoLinker/OctoLinker/issues) or say hello [@OctoLinker](https://twitter.com/OctoLinker) on twitter.
+
+## Special thanks to
+
+- [▲ ZEIT](https://zeit.co/) for sponsoring OctoLinker with hosting.
+- [Art Noir](https://www.art-noir.net/) for this amazing logo.
 
 ## Become a backer
 
